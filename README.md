@@ -7,7 +7,7 @@ and is not monitored or verified by Worldwide Asset eXchange.
 
 * [WAX Mainnet documentation](wax_mainnet.md)
 
-* WAX Testnet documentation
+* [WAX Testnet documentation](wax_testnet.md)
 
 Useful Links
 ------------

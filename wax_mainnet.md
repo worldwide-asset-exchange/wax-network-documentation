@@ -18,11 +18,11 @@ packages](https://waxsweden.org/apt-get-wax/) for WAX software.
 
 ## Running a node
 
-* [Genesis JSON](wax_mainnet_genesis.json).
+* [Genesis JSON](wax_mainnet_genesis.json)
 
 * [P2P endpoints](https://validate.eosnation.io/wax/reports/config.html) at EOS Nation validator
 
-* Recommended software for producing nodes: WAX version 1.8.4
+* Recommended software for producing nodes: WAX version `1.8.4`
 
 * Recommended software for non-producing nodes: WAX version `v2.0.6wax02`
 
